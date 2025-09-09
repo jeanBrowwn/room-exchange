@@ -1,0 +1,5 @@
+{
+  "name": "room-exchange",
+  "description": "An interior design assistant that analyzes your space, suggests new moods, and helps you visualize furniture and accessories using AI.",
+  "requestFramePermissions": []
+}
